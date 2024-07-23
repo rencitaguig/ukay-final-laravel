@@ -9,6 +9,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
+        "algolia/scout-extended": "^3.1",
         "attrixtech/laravel-icons": "^1.2",
         "barryvdh/laravel-dompdf": "^2.2",
         "laravel/framework": "^11.0",
